@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat Nov 11 23:17:36 2023
+# Process ID: 13387
+# Current directory: /media/mason/7cdfbd26-1f11-4864-9f63-dd8e4889596f/final_project/final_project.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /media/mason/7cdfbd26-1f11-4864-9f63-dd8e4889596f/final_project/final_project.sim/sim_1/behav/xsim/xsim.dir/fixed_16_16_multiplier_test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /media/mason/7cdfbd26-1f11-4864-9f63-dd8e4889596f/final_project/final_project.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /media/mason/7cdfbd26-1f11-4864-9f63-dd8e4889596f/final_project/final_project.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /media/mason/7cdfbd26-1f11-4864-9f63-dd8e4889596f/final_project/final_project.sim/sim_1/behav/xsim/xsim.dir/fixed_16_16_multiplier_test_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Sat Nov 11 23:17:37 2023...

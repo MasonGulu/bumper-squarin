@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Nov 13 18:45:14 2023
+# Process ID: 14720
+# Current directory: E:/School/SP2023/CMPEN 371/final_project/final_project/final_project.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/School/SP2023/CMPEN 371/final_project/final_project/final_project.sim/sim_1/behav/xsim/xsim.dir/fixed_16_16_multiplier_test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/School/SP2023/CMPEN 371/final_project/final_project/final_project.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/School/SP2023/CMPEN 371/final_project/final_project/final_project.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/School/SP2023/CMPEN -notrace
+couldn't read file "E:/School/SP2023/CMPEN": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Mon Nov 13 18:45:14 2023...

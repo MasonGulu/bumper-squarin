@@ -1,0 +1,18 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto bd608ffaa91d4ac0a56b64091608d056 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot fixed_16_16_multiplier_test_behav xil_defaultlib.fixed_16_16_multiplier_test -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.clock_div_100MHz_to_25_175_MHz [clock_div_100mhz_to_25_175_mhz_d...]
+Compiling architecture behavioral of entity xil_defaultlib.fixed_16_16_multiplier_test
+Built simulation snapshot fixed_16_16_multiplier_test_behav

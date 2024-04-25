@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Nov 12 15:12:28 2023
+# Process ID: 11876
+# Current directory: E:/School/SP2023/CMPEN 371/final_project/final_project/final_project.runs/synth_1
+# Command line: vivado.exe -log fixed_16_16_multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fixed_16_16_multiplier.tcl
+# Log file: E:/School/SP2023/CMPEN 371/final_project/final_project/final_project.runs/synth_1/fixed_16_16_multiplier.vds
+# Journal file: E:/School/SP2023/CMPEN 371/final_project/final_project/final_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source fixed_16_16_multiplier.tcl -notrace
